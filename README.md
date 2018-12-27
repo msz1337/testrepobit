@@ -7,7 +7,12 @@ Ingredients:
 - **piSingleSwithRadio.py** and **piSingleSwithRadio.json** files (preferable in your home directory - mostly /home/pi).
 
 ##### It could be one of the easiest projects using GPIO pin!
-## Configuring enviroment
+
+## Let's do some tinkering...
+
+
+
+## Configuring environment
 Following script runs **only on Raspberry Pi**. It also requires *mpv* and *espeak* packages. Install it by following commands:
 ```sh
 $ sudo apt install mpv
