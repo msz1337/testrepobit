@@ -10,7 +10,17 @@ Ingredients:
 
 ## Let's do some tinkering...
 
+### 1. Connect switch to the Raspberry Pi 
 
+asdasdasdasdasd
+
+### 2. Connect RPi to your Hi-Fi set
+
+asdasdasdasd
+
+### 3. Tidy everything 
+
+asdasdasdasdasd
 
 ## Configuring environment
 Following script runs **only on Raspberry Pi**. It also requires *mpv* and *espeak* packages. Install it by following commands:
